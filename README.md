@@ -1,5 +1,4 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-
 <h1 align="center">Hi 👋, I'm santhosh kumar</h1>
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshk10x&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshk10x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhoshk10x" alt="santhoshk10x" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/santhoshkr_" target="blank"><img src="https://img.shields.io/twitter/follow/santhoshkr_?logo=twitter&style=for-the-badge" alt="santhoshkr_" /></a> </p>
 
 - 🔭 I’m currently working on **ecommerce_website**
 
