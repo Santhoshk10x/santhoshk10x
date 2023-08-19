@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm santhosh kumar</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate machine learning engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshk10x&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshk10x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhoshk10x" alt="santhoshk10x" /></a> </p>
 
-- 🔭 I’m currently working on **ecommerce_website**
+- 🔭 I’m currently working on **ML and AI projects**
 
-- 💬 Ask me about **Python,Django**
+- 💬 Ask me about **Machine learning**
 
 - 📫 How to reach me **santhoshkumar10x@gmail.com**
 
